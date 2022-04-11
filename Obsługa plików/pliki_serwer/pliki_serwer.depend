@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610447212 source:c:\users\justyna\desktop\pliki_serwer\main.c
+	<stdio.h>
+	<WinSock2.h>
+	<string.h>
+

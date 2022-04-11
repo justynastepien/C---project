@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610451915 source:c:\users\justyna\desktop\podstawy prog\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610446118 source:c:\users\justyna\desktop\komunikator_nawiazanie\main.c
+	<stdio.h>
+	<WinSock2.h>
+	<string.h>
+

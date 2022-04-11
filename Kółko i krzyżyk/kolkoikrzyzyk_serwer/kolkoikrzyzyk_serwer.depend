@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610444892 source:c:\users\justyna\desktop\kolkoikrzyzyk_serwer\main.c
+	<stdio.h>
+	<WinSock2.h>
+	<string.h>
+
+1610444892 source:c:\users\justyna\desktop\podstawy prog\kolkoikrzyzyk_serwer\main.c
+	<stdio.h>
+	<WinSock2.h>
+	<string.h>
+

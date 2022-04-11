@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610444984 source:c:\users\justyna\desktop\kolkokrzyzyk_nawiazanie\main.c
+	<stdio.h>
+	<WinSock2.h>
+	<string.h>
+
+1610444984 source:c:\users\justyna\desktop\podstawy prog\kolkokrzyzyk_nawiazanie\main.c
+	<stdio.h>
+	<WinSock2.h>
+	<string.h>
+
